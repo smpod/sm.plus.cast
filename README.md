@@ -1,7 +1,7 @@
 # CastVideos-chrome
 ===============================
 
-SM PLus Google Cast demo. App to cast shows to various media e.g. video, movies, TV show, music and photo from a Chrome browser. 
+SM Plus Google Cast demo. App to cast shows to various media e.g. video, movies, TV show, music and photo from a Chrome browser. 
 
 ## Setup Instructions
 
